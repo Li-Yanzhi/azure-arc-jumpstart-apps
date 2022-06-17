@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Welcome to Azure Arc GitOps Demo in 2022!
+          value: Welcome to Azure Arc K3S GitOps Demo in 2022!
